@@ -1,0 +1,15 @@
+name: Package Python Script
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  package-script:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/upload-artifact@v3
+        with:
+          name: Package secrets-operator-script
+          path: secrets-appender/secret-operator.py
