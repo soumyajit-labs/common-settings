@@ -5,8 +5,8 @@
     <servers>
         <server>
             <id>anypoint-exchange-v2</id>
-            <username>${connectedapp_user}</username>
-            <password>${connectedapp_pass}</password>
+            <username>~~~Client~~~</username>
+            <password>${connectedapp_user}~?~${connectedapp_pass}</password>
         </server>
     </servers>
     <profiles>
