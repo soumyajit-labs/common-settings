@@ -5,8 +5,8 @@ from botocore.exceptions import ClientError
 from dotenv import load_dotenv
 load_dotenv()
 
-region = os.environ['AWS_REGION']
-repository = sys.argv[1]
+region = sys.argv[1]
+repository = sys.argv[2]
 
 def fetch(key):
     print('Trying to fetch the credentials for {0} repository...')
