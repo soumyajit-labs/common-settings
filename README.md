@@ -26,10 +26,8 @@ https://63ebcbcf-7a20-4658-938a-3f8fb138dc36.e1-us-east-azure.choreoapps.dev/
 
 **Current (Assumed) -** 
 
-<img width="691" alt="image" src="https://github.com/user-attachments/assets/f117e4c1-7084-4996-ace2-d408335ea52f">
+<img width="767" alt="image" src="https://github.com/user-attachments/assets/5f9e676f-5b03-488d-902c-e9da46e5b345">
 
 **Proposed -**
 
-<img width="680" alt="image" src="https://github.com/user-attachments/assets/3a1ccffc-9ff5-4af4-b603-13e390635a78">
-
-
+<img width="857" alt="image" src="https://github.com/user-attachments/assets/c617c2d3-d548-4140-8666-ddf9937f00be">
